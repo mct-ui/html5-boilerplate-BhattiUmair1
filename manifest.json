@@ -1,0 +1,142 @@
+[{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/google-touch-icon.png",
+    "baseName": "google-touch-icon.png",
+    "format": "PNG",
+    "formatDescription": "PNG",
+    "mimeType": "image/png",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 462,
+      "height": 513,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 8,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 948024,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 84.0316,
+        "median": 0,
+        "standardDeviation": 24510.5,
+        "kurtosis": -1.37374,
+        "skewness": 0.682932,
+        "entropy": 0.249691
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 110.288,
+        "median": 0,
+        "standardDeviation": 32353.2,
+        "kurtosis": -1.92071,
+        "skewness": 0.272103,
+        "entropy": 0.144112
+      },
+      "red": {
+        "min": 0,
+        "max": 85,
+        "mean": 29.7944,
+        "median": 0,
+        "standardDeviation": 8669.44,
+        "kurtosis": -1.93749,
+        "skewness": 0.249175,
+        "entropy": 0.25141
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 88.1612,
+        "median": 0,
+        "standardDeviation": 25642.3,
+        "kurtosis": -1.93758,
+        "skewness": 0.248423,
+        "entropy": 0.249264
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 107.883,
+        "median": 0,
+        "standardDeviation": 31376.9,
+        "kurtosis": -1.93841,
+        "skewness": 0.248064,
+        "entropy": 0.35398
+      }
+    },
+    "alpha": "#00000000",
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 462,
+      "height": 513,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "compression": "Zip",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2021-02-10T13:59:48+00:00",
+      "date:modify": "2021-02-10T13:59:48+00:00",
+      "png:IHDR.bit-depth-orig": "8",
+      "png:IHDR.bit_depth": "8",
+      "png:IHDR.color-type-orig": "6",
+      "png:IHDR.color_type": "6 (RGBA)",
+      "png:IHDR.interlace_method": "0 (Not interlaced)",
+      "png:IHDR.width,height": "462, 513",
+      "png:sRGB": "intent=0 (Perceptual Intent)",
+      "signature": "7383ed1839c26f9c5c34b5afed9831661163fc8543faf994b9b3b8f2f252a990"
+    },
+    "tainted": false,
+    "filesize": "18854B",
+    "numberPixels": "237006",
+    "pixelsPerSecond": "18.1609MB",
+    "userTime": "0.020u",
+    "elapsedTime": "0:01.013",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+}]
